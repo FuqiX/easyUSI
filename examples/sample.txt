@@ -1,0 +1,17 @@
+{
+  "alias" : "D1",
+  "title" : "NA12878_D1",
+  "description" : "Material derived from cell line NA12878",
+  "attributes" : {
+    "Cell line type" : [ {
+      "value" : "EBV-LCL cell line",
+      "terms" : [ {
+        "url" : "http://purl.obolibrary.org/obo/BTO_0003335"
+      } ]
+    } ]
+  },
+  "sampleRelationships" : [ ],
+  "taxonId" : 9606,
+  "taxon" : "Homo sapiens",
+  "releaseDate" : "2017-01-01"
+}

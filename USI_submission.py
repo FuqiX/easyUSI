@@ -22,20 +22,16 @@ Note:
 Options:
     * Compulsory
     -u Username *
-    -s SampleFile
-    -p projectFile
-    -r sequencingRunFile
-    -d study
+    -sp SampleFile
+    TODO -p projectFile
+    TODO -r sequencingRunFile
+    TODO -d study
 
-    TODO -h help
 """
 
-import sys
-import os
+
 import json
-import subprocess
 import requests
-import time
 import getpass
 import argparse
 

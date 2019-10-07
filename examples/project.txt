@@ -1,0 +1,10 @@
+{
+  "alias" : "example-short-unique-name",
+  "title" : "Example title for our scientific project, at least 50 characters long",
+  "description" : "Example description for our scientific project, which must also be at least 50 characters long",
+  "attributes" : { },
+  "contacts" : [ ],
+  "publications" : [ ],
+  "fundings" : [ ],
+  "releaseDate" : "2019-10-03"
+}

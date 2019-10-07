@@ -1,0 +1,19 @@
+{
+  "alias" : "Study1",
+  "title" : "My Sequencing Study 1",
+  "description" : "We sequenced some humans to discover variants linked with a disease",
+  "attributes" : {
+    "study_type" : [ {
+      "value" : "Whole Genome Sequencing",
+      "terms" : [ ]
+    } ],
+    "study_abstract" : [ {
+      "value" : "We sequenced some humans to discover variants linked with a disease",
+      "terms" : [ ]
+    } ]
+  },
+  "protocolRefs" : [ ],
+  "projectRef" : {
+    "alias" : "example-short-unique-name"
+  }
+}

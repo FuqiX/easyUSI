@@ -1,0 +1,41 @@
+{
+  "alias" : "A1",
+  "title" : "Assay 1",
+  "description" : "Human sequencing experiment",
+  "attributes" : {
+    "library_strategy" : [ {
+      "value" : "WGS",
+      "terms" : [ ]
+    } ],
+    "library_source" : [ {
+      "value" : "GENOMIC",
+      "terms" : [ ]
+    } ],
+    "library_selection" : [ {
+      "value" : "RANDOM",
+      "terms" : [ ]
+    } ],
+    "library_layout" : [ {
+      "value" : "SINGLE",
+      "terms" : [ ]
+    } ],
+    "platform_type" : [ {
+      "value" : "ILLUMINA",
+      "terms" : [ ]
+    } ],
+    "instrument_model" : [ {
+      "value" : "Illumina HiSeq 2000",
+      "terms" : [ ]
+    } ]
+  },
+  "studyRef" : {
+    "alias" : "Study1"
+  },
+  "sampleUses" : [ {
+    "sampleRef" : {
+      "alias" : "D1"
+    },
+    "attributes" : { }
+  } ],
+  "protocolUses" : [ ]
+}
