@@ -279,6 +279,7 @@ for i in list(contents['_links'].keys()):
     else:
         vars()["link_"+i]= contents['_links'][i]['href']
 
+# TODO: connect args.sample/study/assay to link_samples/assay/study automatically.
 if args.sample:
     sample_filename = args.sample
     samples = load_data(sample_filename)
